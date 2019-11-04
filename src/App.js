@@ -15,6 +15,7 @@ import {
 function App() {
   return (
     <div className="App">
+      Click any of the link: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <Router>
           <Link to="/dataEntry">Data entry</Link>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
