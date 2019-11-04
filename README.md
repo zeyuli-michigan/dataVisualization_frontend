@@ -1,3 +1,21 @@
+This data visualization was written using React, Bootstrap and D3
+
+To run the front end:
+1. Enter the directory of this project 
+2. Run "npm install" to install all the dependencies
+3. Run "npm start" to start the project in development mode
+
+The default local server is located http://localhost:3000
+
+There are three routes, you can click the links at the top of page to switch between them
+1. /dataEntry    display a table of data and a bootstrap modal to input data
+2. /dataVisual   display a scattered plot for all the data in the table. The plot will refresh every 10 secs.
+3. /more         display the author info
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
